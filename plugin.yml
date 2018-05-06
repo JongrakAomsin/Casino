@@ -1,0 +1,4 @@
+name: Casino
+main: me.Nomad.Casino.Casino
+version: 1.0
+depend: [Vault]
